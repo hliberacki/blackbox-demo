@@ -11,5 +11,6 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 #     add_compile_options(-Wall -Wextra -Wpedantic -Werror)
 # endif()
 
-add_subdirectory(define-private-public)
+# add_subdirectory(define-private-public)
 add_subdirectory(layout)
+add_subdirectory(template-specialization)
