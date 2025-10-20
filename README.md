@@ -11,3 +11,6 @@
 
 ## type-traits
 [Godbolt online example](https://godbolt.org/z/aa78Kq4Yd)
+
+## RTTI
+[Godbolt online example](https://godbolt.org/z/edxKohExW)
