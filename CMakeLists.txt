@@ -12,3 +12,4 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 # endif()
 
 add_subdirectory(define-private-public)
+add_subdirectory(layout)
