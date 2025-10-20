@@ -6,3 +6,6 @@ Demo showcasing private data access and accessor applications
 
 ## layout
 [Godbolt online example](https://godbolt.org/z/8bK958hbs)
+
+## template-specialization
+[Godbolt online example](https://godbolt.org/z/nK4e5KTqf)
