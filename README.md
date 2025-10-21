@@ -1,6 +1,6 @@
 # blackbox-demo
 
-## define-private-public
+## ODR/leak
 [Godbolt online example](https://godbolt.org/z/f7o8Efd6q)
 
 ## layout
